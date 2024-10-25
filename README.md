@@ -1,6 +1,6 @@
 **Welcome to the GitHub page for the DojoHelper Mod! Here I will log all recent changes, updates and new features.**
 ______________________________________________
-**What's new in V0.1?**
+**What's new in V0.0.1?**
 ______________________________________________
 - Support for Force, mastery, discipline, swiftness.
 - Safe Autoclicker for both force and discipline.
@@ -24,21 +24,21 @@ _____________________________________________
 <details>
   <summary>Swiftness (Click me!)</summary>
 
-  ![Swiftness](https://i.imgur.com/DJZIlWQ.gif)
+  ![swiftness](https://i.imgur.com/DJZIlWQ.gif)
 
 </details>
 
 <details>
   <summary>Mastery (Click me!)</summary>
 
-  ![Mastery](https://i.imgur.com/MKZafI9.gif)
+  ![mastery](https://i.imgur.com/MKZafI9.gif)
 
 </details>
 
 <details>
   <summary>Discipline (Click me!)</summary>
 
-  ![Discipline](https://i.imgur.com/3iyuWCn.gif)
+  ![discipline](https://i.imgur.com/3iyuWCn.gif)
 
 </details>
 _____________________________________________
