@@ -24,21 +24,23 @@ _____________________________________________
 <details>
   <summary>Swiftness (Click me!)</summary>
 
-  ![swiftness](https://i.imgur.com/DJZIlWQ.gif)
+  ![swiftness](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF4c2V1d2dmOHM4dXhqaXVmdThjNXdrMjZnNzZqaHQzbzE0YnpvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mX1wlsazTDNb5VLYrW/giphy-downsized.gif)
+
+</details>
 
 </details>
 
 <details>
   <summary>Mastery (Click me!)</summary>
 
-  ![mastery](https://i.imgur.com/MKZafI9.gif)
+  ![mastery](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVkcGZ0bmhkejlyMjFsc3dqbW5hNGN0aTJhNG9yajM0NnNsYzBhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FIOlbax3QJwoPVs6h/giphy-downsized.gif)
 
 </details>
 
 <details>
   <summary>Discipline (Click me!)</summary>
 
-  ![discipline](https://i.imgur.com/3iyuWCn.gif)
+  ![discipline](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV6NDNsN3o5YjZ5d2o4ZTV3dHI3dnY1dDVndG50MXlkc2wzc3N3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/acAcqcdPIJEst1ft0E/giphy-downsized.gif)
 
 </details>
 _____________________________________________
