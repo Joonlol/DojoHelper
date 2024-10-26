@@ -33,7 +33,7 @@ Auto Walk, jump and smart movement to get to the right block each time!
 
 <details>
   <summary>Mastery (Click me!)</summary>
-Auto Aim + fire with configurable options
+Auto Aim + fire with configurable options.
   
 ![mastery](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVkcGZ0bmhkejlyMjFsc3dqbW5hNGN0aTJhNG9yajM0NnNsYzBhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FIOlbax3QJwoPVs6h/giphy-downsized.gif)
 
