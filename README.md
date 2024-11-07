@@ -6,6 +6,7 @@ ______________________________________________
 - Safe Autoclicker for both force and discipline.
 - Auto Aim with customizable time and targets for Mastery.
 - And much more to come!
+
 [November 2024] - Official Release! Squashed a lot of bugs and improved functionality across the board. Thank you to all the testers.
 _____________________________________________
 **Installation guide, for Forge version 1.8.9:**
