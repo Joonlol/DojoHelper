@@ -48,9 +48,10 @@ Auto Sword Swap + Clicker!
   ![discipline](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV6NDNsN3o5YjZ5d2o4ZTV3dHI3dnY1dDVndG50MXlkc2wzc3N3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/acAcqcdPIJEst1ft0E/giphy-downsized.gif)
 
 </details>
-_____________________________________________
+
+
 <details>
-  <summary>CONFLICTING MODS! (Click me)</summary>
+  <summary>NOTE! CONFLICTING MODS! (Click me)</summary>
   
   Note! Some mods may conflict with the mod, specifically Skyblock Extras and CrashPatch. If you encounter a error while using these mods, temporarily disable them. Thank you for understanding.
 
