@@ -74,4 +74,4 @@ _____________________________________________
 > A: Yes! You can use this to safely get all 7000 points required for the black belt.
 
 _____________________________________________
-[November 2024] Changed CDN network, should fix dependency bug!
+[November 2024] Changed CDN network, should fix dependency bug
