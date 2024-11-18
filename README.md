@@ -49,7 +49,14 @@ Auto Sword Swap + Clicker!
 
 </details>
 _____________________________________________
+<details>
+  <summary>CONFLICTING MODS! (Click me)</summary>
+  
+  Note! Some mods may conflict with the mod, specifically Skyblock Extras and CrashPatch. If you encounter a error while using these mods, temporarily disable them. Thank you for understanding.
 
+</details>
+
+_____________________________________________
 **Some Frequently asked questions and answers:**
 
 - Q: Is there a video preview?
