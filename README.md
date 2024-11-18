@@ -3,7 +3,7 @@ ______________________________________________
 **What's new in V1?**
 ______________________________________________
 - Support for Force, mastery, discipline, swiftness.
-- Safe Autoclicker for both force and discipline.
+- Clicker for both force and discipline.
 - Auto Aim with customizable time and targets for Mastery.
 - And much more to come!
 
