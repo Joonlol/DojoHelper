@@ -1,13 +1,14 @@
 **Welcome to the GitHub page for the DojoHelper Mod! Here I will log all recent changes, updates and new features.**
 ______________________________________________
-**What's new in V1?**
+**What's new in V1.1?**
 ______________________________________________
-- Support for Force, mastery, discipline, swiftness.
+- Support for Force, Mastery, Discipline, Swiftness, Control.
 - Clicker for both force and discipline.
 - Auto Aim with customizable time and targets for Mastery.
+- Control Aim Assist.
 - And much more to come!
 
-[November 2024] - Official Release! Squashed a lot of bugs and improved functionality across the board. Thank you to all the testers.
+[December 2024] - Offical Release of Control Aim Assist! This feature helps you easily progress in the Control challenge on any ping!
 _____________________________________________
 **Installation guide, for Forge version 1.8.9:**
 
@@ -22,6 +23,16 @@ _____________________________________________
 _____________________________________________
 
 **Previews:** *you may need to allow some time for the GIFs to load*
+
+<details>
+  <summary>Test of Control Aim Assist (BRAND NEW!)</summary>
+Aim assistance for the Test of Control challenge, supports every ping flawlessly (Credit to deranged for clip)
+
+  ![swiftness](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFqZDVldzVsb3YwZmVmMzZnczhpaGR1MGtheDNibTc0NDB5d2s5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOGeD2taqxTOIEr6YJ/giphy.gif)
+
+YouTube link (Better quality): https://youtu.be/3FXUXv3PPRA
+
+</details>
 
 <details>
   <summary>Swiftness (Click me!)</summary>
@@ -49,14 +60,6 @@ Auto Sword Swap + Clicker!
 
 </details>
 
-
-<details>
-  <summary>NOTE! CONFLICTING MODS! (Click me)</summary>
-  
-  Note! Some mods may conflict with the mod, specifically Skyblock Extras and CrashPatch. If you encounter a error while using these mods, temporarily disable them. Thank you for understanding.
-
-</details>
-
 _____________________________________________
 **Some Frequently asked questions and answers:**
 
@@ -64,10 +67,13 @@ _____________________________________________
 > A: Yes! Click this link to view a preview of the mod and all supported modes: [YouTube](https://youtu.be/FmI1B04Hnfs)
 
 - Q: Is this mod Safe to use?
-> A: Yes! This mod is entirely safe to use as this is a mere helper and aims to replicate regular human interactions
+> A: Yes! This mod is entirely safe to use as this is a mere helper and aims to replicate regular human interactions.
+
+- Q: Would you recommend using this to complete my daily faction challenges?
+> A: Of course! Since this mod helps out the player you can without worry keep the mod to use it to help you with the various daily faction quests.
 
 - Q: Can I use this on any computer/account/network?
-> A: Yes! This mod is not license based as it is entirely free to use, so you can use this on any Windows, MacOS, Linux, Ethernet/WiFi and Minecraft account as you wish.
+> A: Yes! This mod is not license based as it is entirely free to use, however to prevent the mod getting relabled with potential malware I rely on a CDN network (Similar to Skyblock Extras) to provide the features to the Player.
 
 - Q: What ping is this for?
 > A: Any ping! If you have low ping but are simply struggling with the dojo you can use this mod as well!
